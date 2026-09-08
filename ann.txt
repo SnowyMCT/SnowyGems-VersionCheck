@@ -1,6 +1,6 @@
 欢迎使用 SnowyGems ！
-2026年8月24日：SnowyGems 0.0.2 已发布！
+2026 年 9 月 8 日：SnowyGems 0.0.3 已发布！
 最新版本可前往 Github | QQ群 | 官方下载站 进行下载
-QQ交流群：878379031
+QQ 交流群：878379031
 官方下载站：
 https://www.mc233.fun/index.php?p=downloads
