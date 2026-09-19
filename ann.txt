@@ -1,9 +1,7 @@
-欢迎使用 SnowyGems ！
-2026年9月11日：SnowyGems 0.0.5 版本已发布！
-全新符文功能已加入！
+2026年9月19日：SnowyGems 0.0.6 版本已发布！
 ——
 查看更新日志：
-https://pwiki.snowymc.top/snowygems/changelog#_004
+https://www.mc233.fun/index.php?p=wiki&slug=snowygems&doc=changelog
 下载新版本：
 https://www.mc233.fun/index.php?p=downloads
 https://github.com/SnowyMCT/SnowyGems/releases
