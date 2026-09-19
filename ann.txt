@@ -1,5 +1,7 @@
 2026年9月19日：SnowyGems 0.0.6 版本已发布！
 ——
+한국어 지원 업데이트
+AI 번역을 사용하였으며, 오역이 있을 경우 GitHub에 issue를 남겨 주세요. 감사합니다.
 查看更新日志：
 https://www.mc233.fun/index.php?p=wiki&slug=snowygems&doc=changelog
 下载新版本：
