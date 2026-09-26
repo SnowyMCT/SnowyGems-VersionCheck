@@ -1,14 +1,7 @@
 2026年9月26日：SnowyGems 0.0.7 版本已发布！
 ——
-新增对象式 YAML 动作配置、带备份的 /sgem migrate 和全 GUI /sgem editor。
-拆卸价格与宝石返还成功率移至 dismantle/*.yml，金币、点券和经验可组合计价。
-修复随机点券兑换券因小数被 PlayerPoints 拒绝，以及极小随机数解析异常的问题。
-修复编辑器按钮覆盖和重载后调试状态丢失。
-升级前请备份并迁移旧 Dismantle、RemoveTip、phase: remove / $onRemove 拆卸费用；正常停服替换插件后重启。
-查看更新日志：
-https://www.mc233.fun/index.php?p=wiki&slug=snowygems&doc=changelog
+全新语法格式！
 下载新版本：
 https://www.mc233.fun/index.php?p=downloads
-https://github.com/SnowyMCT/SnowyGems/releases/tag/0.0.7
-https://github.com/SnowyMCT/SnowyGems/releases/download/0.0.7/SnowyGems-0.0.7.jar
+交流群：
 https://qm.qq.com/q/dhHet34Kwo
