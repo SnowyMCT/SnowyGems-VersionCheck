@@ -1,2 +1,2 @@
-version: 0.0.7
-date: 2026年9月26日
+version: 0.0.8
+date: 2026年10月1日
