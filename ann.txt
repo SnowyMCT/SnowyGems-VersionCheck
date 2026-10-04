@@ -1,7 +1,11 @@
-2026年10月1日：SnowyGems 0.0.8 版本已发布！
+2026年10月4日：SnowyGems 0.0.9 版本已发布！
 ——
-全新语法格式！
+修复 onAttack 的 Entity 目标和嵌套技能目标继承，避免伤害错误作用于玩家自身。
+修复 Folia 上常驻 BUFF 与延迟技能的区域线程错误，并调整 GUI 延迟任务调度。
+从 0.0.8 升级无需迁移配置；建议先在测试服验证技能和工作台。
 下载新版本：
-https://www.mc233.fun/index.php?p=downloads
+https://github.com/SnowyMCT/SnowyGems/releases/tag/0.0.9
+更新说明：
+https://www.mc233.fun/index.php?p=wiki&slug=snowygems&doc=changelog
 交流群：
 https://qm.qq.com/q/dhHet34Kwo
