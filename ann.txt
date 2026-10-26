@@ -1,10 +1,10 @@
-2026年10月6日：SnowyGems 0.0.9 版本已发布！
+2026年10月26日：SnowyGems 0.1.0 版本已发布！
 ——
-
+修复了已知问题，顺便加了一些好玩的 ~v~
 ——
-从 0.0.8 升级无需迁移配置；可以先在测试服验证各功能是否完好。
-下载新版本：
-https://github.com/SnowyMCT/SnowyGems/releases/tag/0.0.9
+从 0.0.9 升级需要迁移配置。
+下载新版本/查看本轮更新内容：
+https://github.com/SnowyMCT/SnowyGems/releases/tag/0.1.0
 https://www.minebbs.com/resources/snowygems-buff.17553/history
 详细更新说明：
 https://www.mc233.fun/index.php?p=wiki&slug=snowygems&doc=changelog
