@@ -5,6 +5,7 @@
 从 0.0.8 升级无需迁移配置；可以先在测试服验证各功能是否完好。
 下载新版本：
 https://github.com/SnowyMCT/SnowyGems/releases/tag/0.0.9
+https://www.minebbs.com/resources/snowygems-buff.17553/history
 详细更新说明：
 https://www.mc233.fun/index.php?p=wiki&slug=snowygems&doc=changelog
 交流群：
