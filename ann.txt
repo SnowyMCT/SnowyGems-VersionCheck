@@ -3,11 +3,12 @@
 修复了已知问题，顺便加了一些好玩的 ~v~
 ——
 从 0.1.0 升级时：
-你需要备份`\plugins\SnowyGems`中的配置文件
+你需要备份 \plugins\SnowyGems 中的配置文件
 你可能需要在权限管理插件中重新配置权限
 —-
 下载新版本：
 https://www.mc233.fun/index.php?p=downloads
+https://github.com/SnowyMCT/SnowyGems/releases/tag/0.1.1
 更新说明：
 https://www.mc233.fun/index.php?p=wiki&slug=snowygems&doc=changelog
 交流群：
